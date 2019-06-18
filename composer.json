@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.0.0",
-    "yiisoft/yii2": ">=2.0.0",
+    "yiisoft/yii2": ">=2.0",
     "bower-asset/dropzone": "@dev",
     "bower-asset/requirejs": "@dev",
     "bower-asset/Sortable": "@dev"
